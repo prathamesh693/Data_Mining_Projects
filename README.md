@@ -13,3 +13,6 @@ This project uses machine learning to predict crop yield based on temperature an
 python Data_Preprocessing.py
 python Data_modeling.py
 python last_stage.py
+
+## View Interactive Dashboard on Power BI
+(https://app.powerbi.com/view?r=EXAMPLE-REPORT-ID)
